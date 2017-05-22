@@ -1,1 +1,0 @@
-I'm going to add anc commit this file, but then use it to test git rm.
